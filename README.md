@@ -24,6 +24,8 @@
 - Banco de Dados: Firebase e MySQL
 
 
+https://www.linkedin.com/in/francisco-molina-jr/
+
 <!---
 franciscomduarte/franciscomduarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
