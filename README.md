@@ -6,23 +6,30 @@
 
 <b>Conhecimentos utilizados nos projetos</b>
 
-<b>Projetos PHP</b>
-- PHP com apoio do Laravel
-- Banco de Dados: MySQL e PostgreSQL
-
-<b>Projetos Java</b>
-- Java
-- Spring boot
-- Hibernate
-- JSF
-- Banco de Dados: MySQL e PostgreSQL
-
-<b>Projetos Mobile</b>
-- Flutter
-- Dart
-- API Rest
-- Banco de Dados: Firebase e MySQL
-
+<ul>
+  <li><label>PHP Projects</label>
+    <ul>
+      <li>PHP with Laravel</li>
+      <li>Data Base: MySQL e PostgreSQL</li>
+    </ul>
+  </li>
+  <li><label>Java Projects</label>
+      <ul>
+      <li>Java</li>
+      <li>Spring boot</li>
+      <li>Hibernate</li>
+      <li>JSF</li>
+      <li>Data Base: MySQL e PostgreSQL</li>
+    </ul>
+  </li>
+  <li><label>Mobile Projects</label>
+      <ul>
+      <li>Flutter and Dart</li>
+      <li>API Rest</li>
+      <li>Data Base: Firebase e MySQL</li>
+    </ul>
+  </li>
+</ul>
 
 https://www.linkedin.com/in/francisco-molina-jr/
 
